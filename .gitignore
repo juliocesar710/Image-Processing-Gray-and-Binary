@@ -1,0 +1,26 @@
+# Python
+*.pyc
+*.pyo
+__pycache__
+*.pdb
+*.log
+
+# Ambiente virtual
+venv/
+.env/
+*.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependência
+*.tar.gz
+*.egg-info/
+
+# Arquivos gerados
+*.zip
+*.h5

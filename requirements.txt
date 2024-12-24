@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+numpy==1.21.2
+matplotlib==3.4.3
+ipywidgets==7.6.5
