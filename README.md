@@ -1,2 +1,23 @@
-# Image-Processing-Gray-and-Binary
-Este projeto implementa um algoritmo para transformar imagens coloridas em dois formatos: uma versão em níveis de cinza (0 a 255) e uma versão binarizada (preto e branco). Utilizando as bibliotecas OpenCV e Matplotlib, o projeto permite ajustar o limiar de binarização e visualizar os resultados em tempo real.
+# Projeto de Transformação de Imagens: Tons de cinza e binárias
+
+Este projeto aplica técnicas de processamento de imagem para transformar uma imagem colorida em tons de cinza e binarizada (preto e branco). O código permite ajustar os thresholds para binarização e visualiza os resultados em tempo real.
+
+## Tecnologias Utilizadas
+
+- Python
+- OpenCV
+- Matplotlib
+- NumPy
+- IPyWidgets (para interatividade)
+
+## Como Executar
+
+### Passo 1: Clone o repositório
+
+Clone o repositório para sua máquina local:
+
+```
+git clone https://github.com/seu-usuario/repo-nome.git
+cd repo-nome
+
+```
